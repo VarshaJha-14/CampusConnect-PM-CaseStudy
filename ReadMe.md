@@ -17,6 +17,7 @@ Instead of building another messaging platform, Campus Connect focuses on solvin
 The MVP validates this hypothesis using a **Wizard of Oz** approach before investing in AI automation.
 
 ---
+<img width="946" height="499" alt="image" src="https://github.com/user-attachments/assets/239d4e0d-4f15-4f37-88a4-3e068e611300" />
 
 ## 🚨 Problem Statement
 
